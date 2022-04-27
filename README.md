@@ -7,5 +7,5 @@
 - 🥅 2022 Goals: to further explore and improve my programming skills.
 - ⚡ Random Fun fact: I got to the Mirror Knight on Dark Souls 2 without dying.
 
-### Connect with me:
+###
 
