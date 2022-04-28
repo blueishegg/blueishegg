@@ -1,5 +1,7 @@
 # <p align="center">Hey there, I'm Israel 👋</p>
 
+![profileimage](img.JPG)
+
 ## I'm a software engineer with a newfound passion for tech!
 
 - 🌱 Completed the School of Code Bootcamp and eager to continue developing.
@@ -8,5 +10,3 @@
 - ⚡ Random Fun fact: I got to the Mirror Knight on Dark Souls 2 without dying.
 
 ###
-
-![profileimage](img.JPG)
