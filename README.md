@@ -9,4 +9,6 @@
 - 🥅 2022 Goals: to further explore and improve my programming skills.
 - ⚡ Random Fun fact: I got to the Mirror Knight on Dark Souls 2 without dying.
 
-###
+### 👇 Connect with me
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/israel-calderon-patiño-69688a230//)
