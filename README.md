@@ -11,4 +11,4 @@
 
 ### 👇 Connect with me
 
-[<img src='linkedin.png'>](https://www.linkedin.com/in/israel-calderon-69688a230/)
+[<img src='linkedin.png' width='50'/>](https://www.linkedin.com/in/israel-calderon-69688a230/)
