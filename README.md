@@ -13,7 +13,7 @@
 
 [<img src='linkedin.png' width='50'/>](https://www.linkedin.com/in/israel-calderon-69688a230/)
 
-### Or 👇 checkout my new we-portfolioby clicking my name below:
+### Or 👇 checkout my new we-portfolio by clicking my name below:
 
 [<img src='israelportfolio.png' width='200'/>](https://is-calderon.netlify.app/)
 
