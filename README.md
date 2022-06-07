@@ -1,6 +1,6 @@
 # <p align="center">Hey there, I'm Israel 👋</p>
 
-![profileimage](img.JPG)
+<!-- ![profileimage](img.JPG) -->
 
 ## I'm a software engineer with a newfound passion for tech!
 
