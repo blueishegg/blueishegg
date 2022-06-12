@@ -15,7 +15,7 @@
 
 ### Or 👇 checkout my new web-portfolio by clicking my name below:
 
-[<img src='israelportfolio.png' width='200'/>](https://is-calderon.netlify.app/)
+[<img src='israelportfolio.png' width='200'/>](https://is-calderon.vercel.app/)
 
 ## ⚡ Technologies
 
